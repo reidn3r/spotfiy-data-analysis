@@ -21,7 +21,7 @@
   - Treinamento de modelos de machine learning
   - Verificação de métrica de avaliação dos modelos
 
-## Linkedin and Gmail
+## Linkedin e Gmail
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reidner-adnan-b19377210) 	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdn.adn00@gmail.com)
